@@ -1,0 +1,50 @@
+.select-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+select {
+    margin: 5px;
+    padding: 12px 6px;
+    font-size: 18px;
+}
+
+.standing-results {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 300px;
+    margin: 0 10px;
+}
+
+.standing-info {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    font-size: 30px;
+}
+
+.standing-info img {
+    width: 38px;
+    margin: 0 20px 0 20px;
+    position: relative;
+    top: 8px;
+}
+
+.loader {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 400px) {
+
+    .select-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+}

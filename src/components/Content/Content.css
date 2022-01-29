@@ -1,0 +1,34 @@
+.content-container {
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 5px;
+}
+
+.tab-leagues,
+.tab-standings {
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    color: #ffffff;
+    height: 50px;
+}
+
+.tab-leagues {
+    margin-right: 2px;
+}
+
+.tab-standings {
+    margin-left: 2px;
+}
