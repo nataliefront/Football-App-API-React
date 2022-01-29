@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Football-App-API-React/static/css/main.2a11d5b2.css",
+    "main.js": "/Football-App-API-React/static/js/main.a56a84cf.js",
+    "index.html": "/Football-App-API-React/index.html",
+    "main.2a11d5b2.css.map": "/Football-App-API-React/static/css/main.2a11d5b2.css.map",
+    "main.a56a84cf.js.map": "/Football-App-API-React/static/js/main.a56a84cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a11d5b2.css",
+    "static/js/main.a56a84cf.js"
+  ]
+}
